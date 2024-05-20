@@ -1,0 +1,2 @@
+* url link to data (https://www.macrotrends.net/stocks/charts/IMAX/imax/stock-price-history)
+* This data shows the annual stock price for IMAX. IMAX is an industry that uses very wide aspect ratios for films. At first, IMAX was only used for dome theaters in museums but starting in 2008, "The Dark Knight" was the first feature length film to be shown worldwide in theaters using IMAX cameras. So since then, IMAX's annual stock price was steadily increasing. Along with Oppenheimer and Dune: Part Two, it has been getting even higher.
